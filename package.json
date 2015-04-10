@@ -22,9 +22,7 @@
   },
   "homepage": "https://github.com/Kelt/mean.as",
   "devDependencies": {
-    "istanbul": "^0.3.13"
-  },
-  "devDependencies": {
+    "istanbul": "^0.3.13",
     "chai": "^2.2.0",
     "coveralls": "^2.11.2",
     "mocha": "^2.2.4",
