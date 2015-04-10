@@ -2,6 +2,7 @@
   "node": true,
   "globals": {
     "describe": false,
-    "beforeEach": false
+    "beforeEach": false,
+    "it": false
   }
 }

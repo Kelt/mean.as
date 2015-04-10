@@ -4,7 +4,7 @@ chai.use(require('sinon-chai'));
 
 describe('backend/app', function () {
 
-  describe('main test', function () {
+  it('main test', function () {
     var middleware = require('../app');
     var res = middleware();
     expect(res).to.equal(true);
